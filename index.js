@@ -1,5 +1,5 @@
 /*
-* An annoted demo of how to access the FitBit OAuth 2.1 library 
+* An annoted demo of how to access the FitBit OAuth 2.0 library 
 * using Node.js, Redis and Express.js
 *
 * See README
