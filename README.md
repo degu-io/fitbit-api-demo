@@ -1,6 +1,6 @@
 # FitBit API Demo
 
-An annoted demo of how to access the FitBit OAuth 2.1 library 
+An annotated demo of how to access the FitBit OAuth 2.1 library 
 using Node.js, Redis and Express.js
 
 In this demo we will:
